@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Blog - Learning Notes</title>
+        <link>https://byc996.github.io/categories/</link>
+        <description>Categories - Category - Blog - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 16 Jun 2022 15:24:29 -0400</lastBuildDate><atom:link href="https://byc996.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Algorithm</title>
+    <link>https://byc996.github.io/categories/algorithm/</link>
+    <pubDate>Thu, 16 Jun 2022 15:24:29 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/categories/algorithm/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>LintCode</title>
+    <link>https://byc996.github.io/categories/lintcode/</link>
+    <pubDate>Thu, 16 Jun 2022 15:24:29 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/categories/lintcode/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>documentation</title>
+    <link>https://byc996.github.io/categories/documentation/</link>
+    <pubDate>Wed, 15 Jun 2022 17:57:47 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/categories/documentation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

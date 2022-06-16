@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Algorithm - Category - Blog - Learning Notes</title>
+        <link>https://byc996.github.io/categories/algorithm/</link>
+        <description>Algorithm - Category - Blog - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 16 Jun 2022 15:24:29 -0400</lastBuildDate><atom:link href="https://byc996.github.io/categories/algorithm/" rel="self" type="application/rss+xml" /><item>
+    <title>Lintcode1827</title>
+    <link>https://byc996.github.io/posts/lintcode1827/</link>
+    <pubDate>Thu, 16 Jun 2022 15:24:29 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode1827/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/1827/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1827/</a></p>]]></description>
+</item>
+<item>
+    <title>Dynamic Programming</title>
+    <link>https://byc996.github.io/posts/dynamicprogramming/</link>
+    <pubDate>Thu, 16 Jun 2022 14:53:41 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/dynamicprogramming/</guid>
+    <description><![CDATA[<p>动态规划简介</p>]]></description>
+</item>
+</channel>
+</rss>

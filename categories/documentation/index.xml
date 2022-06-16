@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>documentation - Category - Blog - Learning Notes</title>
+        <link>https://byc996.github.io/categories/documentation/</link>
+        <description>documentation - Category - Blog - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 15 Jun 2022 17:57:47 -0400</lastBuildDate><atom:link href="https://byc996.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://byc996.github.io/posts/test/</link>
+    <pubDate>Wed, 15 Jun 2022 17:57:47 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/test/</guid>
+    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
+</item>
+</channel>
+</rss>
