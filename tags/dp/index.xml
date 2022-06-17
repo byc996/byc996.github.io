@@ -3,8 +3,24 @@
         <title>DP - Tag - Blog - Learning Notes</title>
         <link>https://byc996.github.io/tags/dp/</link>
         <description>DP - Tag - Blog - Learning Notes</description>
-        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 16 Jun 2022 15:24:29 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/dp/" rel="self" type="application/rss+xml" /><item>
-    <title>Lintcode1827</title>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 16 Jun 2022 22:52:37 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/dp/" rel="self" type="application/rss+xml" /><item>
+    <title>Lintcode1607 · Profitable Schemes</title>
+    <link>https://byc996.github.io/posts/lintcode1607/</link>
+    <pubDate>Thu, 16 Jun 2022 22:52:37 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode1607/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/1607/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1607/</a></p>]]></description>
+</item>
+<item>
+    <title>Lintcode1702 · Distinct Subsequences II</title>
+    <link>https://byc996.github.io/posts/lintcode1702/</link>
+    <pubDate>Thu, 16 Jun 2022 21:59:53 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode1702/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/1702/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1702/</a></p>]]></description>
+</item>
+<item>
+    <title>Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II</title>
     <link>https://byc996.github.io/posts/lintcode1827/</link>
     <pubDate>Thu, 16 Jun 2022 15:24:29 -0400</pubDate>
     <author>BYC</author>

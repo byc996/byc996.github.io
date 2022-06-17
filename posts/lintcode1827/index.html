@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
-        <title>Lintcode1827 - Blog - Learning Notes</title><meta name="Description" content="Blog - Learning Notes"><meta property="og:title" content="Lintcode1827" />
+        <title>Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II - Blog - Learning Notes</title><meta name="Description" content="Blog - Learning Notes"><meta property="og:title" content="Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II" />
 <meta property="og:description" content="https://www.lintcode.com/problem/1827/" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://byc996.github.io/posts/lintcode1827/" /><meta property="og:image" content="https://byc996.github.io/logo.png"/><meta property="article:section" content="posts" />
@@ -14,23 +14,23 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://byc996.github.io/logo.png"/>
 
-<meta name="twitter:title" content="Lintcode1827"/>
+<meta name="twitter:title" content="Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II"/>
 <meta name="twitter:description" content="https://www.lintcode.com/problem/1827/"/>
 <meta name="application-name" content="LoveIt">
 <meta name="apple-mobile-web-app-title" content="LoveIt"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://byc996.github.io/posts/lintcode1827/" /><link rel="prev" href="https://byc996.github.io/posts/dynamicprogramming/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://byc996.github.io/posts/lintcode1827/" /><link rel="prev" href="https://byc996.github.io/posts/dynamicprogramming/" /><link rel="next" href="https://byc996.github.io/posts/lintcode1702/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
-        "headline": "Lintcode1827",
+        "headline": "Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II",
         "inLanguage": "",
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/byc996.github.io\/posts\/lintcode1827\/"
-        },"genre": "posts","keywords": "Algo, DP, Medium","wordcount":  151 ,
+        },"genre": "posts","keywords": "Algo, DP, Medium","wordcount":  141 ,
         "url": "https:\/\/byc996.github.io\/posts\/lintcode1827\/","datePublished": "2022-06-16T15:24:29-04:00","dateModified": "2022-06-16T15:24:29-04:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -103,9 +103,9 @@
                 <div class="container"><div class="toc" id="toc-auto">
             <h2 class="toc-title">Contents</h2>
             <div class="toc-content" id="toc-content-auto"></div>
-        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Lintcode1827</h1><div class="post-meta">
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>BYC</a></span>&nbsp;<span class="post-category">included in <a href="/categories/algorithm/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Algorithm</a>&nbsp;<a href="/categories/lintcode/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>LintCode</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-06-16">2022-06-16</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;151 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-06-16">2022-06-16</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;141 words&nbsp;
                 <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;One minute&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
                 <div class="details-summary toc-title">
@@ -114,13 +114,16 @@
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
-    <li><a href="#solution">Solution</a></li>
-    <li><a href="#code">Code</a></li>
+    <li><a href="#题型">题型</a></li>
+    <li><a href="#解决方案">解决方案</a></li>
+    <li><a href="#代码">代码</a></li>
   </ul>
 </nav></div>
             </div><div class="content" id="content"><p><a href="https://www.lintcode.com/problem/1827/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1827/</a></p>
-<h1 id="1827--number-of-ways-to-stay-in-the-same-place-after-some-steps-ii">1827 · Number of Ways to Stay in the Same Place After Some Steps II</h1>
-<h2 id="solution">Solution</h2>
+<h2 id="题型">题型</h2>
+<p><strong>坐标DP + 方案总数</strong></p>
+<p>信息：坐标，步数</p>
+<h2 id="解决方案">解决方案</h2>
 <ol>
 <li>状态： <code>dp[i][j]</code>表示走了i 次以后, 走到坐标j 的路径数</li>
 <li>初始化：<code>dp[0][0] = 1</code></li>
@@ -134,7 +137,7 @@
 <blockquote>
 <p>Improvement: rolling array</p>
 </blockquote>
-<h2 id="code">Code</h2>
+<h2 id="代码">代码</h2>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">class</span> <span class="nc">Solution</span><span class="p">:</span>
 </span></span><span class="line"><span class="cl">    <span class="s2">&#34;&#34;&#34;
 </span></span></span><span class="line"><span class="cl"><span class="s2">    @param steps: steps you can move
@@ -167,7 +170,7 @@
         <div class="post-info-line">
             <div class="post-info-md"></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827" data-hashtags="Algo,DP,Medium"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://byc996.github.io/posts/lintcode1827/" data-hashtag="Algo"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827"><i data-svg-src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/line.svg" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827"><i class="fab fa-weibo fa-fw" aria-hidden="true"></i></a></span>
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II" data-hashtags="Algo,DP,Medium"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://byc996.github.io/posts/lintcode1827/" data-hashtag="Algo"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II"><i data-svg-src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/line.svg" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://byc996.github.io/posts/lintcode1827/" data-title="Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II"><i class="fab fa-weibo fa-fw" aria-hidden="true"></i></a></span>
             </div>
         </div>
     </div>
@@ -179,7 +182,8 @@
         </section>
     </div>
 
-    <div class="post-nav"><a href="/posts/dynamicprogramming/" class="prev" rel="prev" title="Dynamic Programming"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>Dynamic Programming</a></div>
+    <div class="post-nav"><a href="/posts/dynamicprogramming/" class="prev" rel="prev" title="Dynamic Programming"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>Dynamic Programming</a>
+            <a href="/posts/lintcode1702/" class="next" rel="next" title="Lintcode1702 · Distinct Subsequences II">Lintcode1702 · Distinct Subsequences II<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
 </div>
 </article></div>
             </main><footer class="footer">
