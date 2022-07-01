@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Monotonic Stack - Tag - Blog - Learning Notes</title>
+        <link>https://byc996.github.io/tags/monotonic-stack/</link>
+        <description>Monotonic Stack - Tag - Blog - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 01 Jul 2022 11:25:07 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/monotonic-stack/" rel="self" type="application/rss+xml" /><item>
+    <title>Lintcode285 · Tall Building</title>
+    <link>https://byc996.github.io/posts/lintcode285/</link>
+    <pubDate>Fri, 01 Jul 2022 11:25:07 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode285/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/285/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/285/</a></p>
+<p>At the weekend, Xiao Q and his friends came to the big city for shopping. There are many tall buildings.There are <code>n</code> tall buildings in a row, whose height is indicated by <code>arr</code>.
+Xiao Q has walked from the first building to the last one. Xiao Q has never seen so many buildings, so he wants to know how many buildings can he see at the location of each building? (When the height of the front building is greater than or equal to the back building, the back building will be blocked)</p>]]></description>
+</item>
+</channel>
+</rss>

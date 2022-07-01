@@ -3,7 +3,39 @@
         <title>Algorithm - Category - Blog - Learning Notes</title>
         <link>https://byc996.github.io/categories/algorithm/</link>
         <description>Algorithm - Category - Blog - Learning Notes</description>
-        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 17 Jun 2022 12:30:24 -0400</lastBuildDate><atom:link href="https://byc996.github.io/categories/algorithm/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 01 Jul 2022 11:25:07 -0400</lastBuildDate><atom:link href="https://byc996.github.io/categories/algorithm/" rel="self" type="application/rss+xml" /><item>
+    <title>Lintcode285 · Tall Building</title>
+    <link>https://byc996.github.io/posts/lintcode285/</link>
+    <pubDate>Fri, 01 Jul 2022 11:25:07 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode285/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/285/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/285/</a></p>
+<p>At the weekend, Xiao Q and his friends came to the big city for shopping. There are many tall buildings.There are <code>n</code> tall buildings in a row, whose height is indicated by <code>arr</code>.
+Xiao Q has walked from the first building to the last one. Xiao Q has never seen so many buildings, so he wants to know how many buildings can he see at the location of each building? (When the height of the front building is greater than or equal to the back building, the back building will be blocked)</p>]]></description>
+</item>
+<item>
+    <title>Lintcode444</title>
+    <link>https://byc996.github.io/posts/lintcode444/</link>
+    <pubDate>Fri, 24 Jun 2022 15:19:41 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode444/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/444/description" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/444/description</a></p>
+<p>Please design a data structure which can do the following operations:</p>
+<ul>
+<li><code>void addEdge(int a, int b)</code>:add an edge between node a<em>a</em> and node b<em>b</em>. It is guaranteed that there isn&rsquo;t self-loop or multi-edge.</li>
+<li><code>bool isValidTree()</code>: Check whether these edges make up a valid tree.</li>
+</ul>]]></description>
+</item>
+<item>
+    <title>Lintcode178 · Graph Valid Tree</title>
+    <link>https://byc996.github.io/posts/lintcode178/</link>
+    <pubDate>Fri, 24 Jun 2022 13:30:27 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode178/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/178/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/178/</a></p>
+<p>Given <code>n</code> nodes labeled from <code>0</code> to <code>n - 1</code> and a list of <code>undirected</code> edges (each edge is a pair of nodes), write a function to check whether these edges make up a valid tree.</p>]]></description>
+</item>
+<item>
     <title>Lintcode1869 · Count Square Submatrices with All Ones</title>
     <link>https://byc996.github.io/posts/lintcode1869/</link>
     <pubDate>Fri, 17 Jun 2022 12:30:24 -0400</pubDate>
@@ -42,14 +74,6 @@
     <author>BYC</author>
     <guid>https://byc996.github.io/posts/lintcode1827/</guid>
     <description><![CDATA[<p><a href="https://www.lintcode.com/problem/1827/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1827/</a></p>]]></description>
-</item>
-<item>
-    <title>Dynamic Programming</title>
-    <link>https://byc996.github.io/posts/dynamicprogramming/</link>
-    <pubDate>Thu, 16 Jun 2022 14:53:41 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/posts/dynamicprogramming/</guid>
-    <description><![CDATA[<p>动态规划简介</p>]]></description>
 </item>
 </channel>
 </rss>

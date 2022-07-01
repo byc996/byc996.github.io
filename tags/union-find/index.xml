@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Union Find - Tag - Blog - Learning Notes</title>
+        <link>https://byc996.github.io/tags/union-find/</link>
+        <description>Union Find - Tag - Blog - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 24 Jun 2022 15:19:41 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/union-find/" rel="self" type="application/rss+xml" /><item>
+    <title>Lintcode444</title>
+    <link>https://byc996.github.io/posts/lintcode444/</link>
+    <pubDate>Fri, 24 Jun 2022 15:19:41 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode444/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/444/description" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/444/description</a></p>
+<p>Please design a data structure which can do the following operations:</p>
+<ul>
+<li><code>void addEdge(int a, int b)</code>:add an edge between node a<em>a</em> and node b<em>b</em>. It is guaranteed that there isn&rsquo;t self-loop or multi-edge.</li>
+<li><code>bool isValidTree()</code>: Check whether these edges make up a valid tree.</li>
+</ul>]]></description>
+</item>
+</channel>
+</rss>
