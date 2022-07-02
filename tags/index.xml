@@ -1,14 +1,62 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Blog - Learning Notes</title>
+        <title>Tags - Tag - BYC - Learning Notes</title>
         <link>https://byc996.github.io/tags/</link>
-        <description>Tags - Tag - Blog - Learning Notes</description>
-        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 01 Jul 2022 11:25:07 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <description>Tags - Tag - BYC - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 02 Jul 2022 12:05:50 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Algo</title>
     <link>https://byc996.github.io/tags/algo/</link>
-    <pubDate>Fri, 01 Jul 2022 11:25:07 -0400</pubDate>
+    <pubDate>Sat, 02 Jul 2022 12:05:50 -0400</pubDate>
     <author>BYC</author>
     <guid>https://byc996.github.io/tags/algo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Hard</title>
+    <link>https://byc996.github.io/tags/hard/</link>
+    <pubDate>Sat, 02 Jul 2022 12:05:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/tags/hard/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Monotonic Queue</title>
+    <link>https://byc996.github.io/tags/monotonic-queue/</link>
+    <pubDate>Sat, 02 Jul 2022 12:05:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/tags/monotonic-queue/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Prefix Sum</title>
+    <link>https://byc996.github.io/tags/prefix-sum/</link>
+    <pubDate>Sat, 02 Jul 2022 12:05:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/tags/prefix-sum/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Monotonic Stack</title>
+    <link>https://byc996.github.io/tags/monotonic-stack/</link>
+    <pubDate>Sat, 02 Jul 2022 11:02:19 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/tags/monotonic-stack/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Heap</title>
+    <link>https://byc996.github.io/tags/heap/</link>
+    <pubDate>Sat, 02 Jul 2022 09:14:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/tags/heap/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Lazy Deletion</title>
+    <link>https://byc996.github.io/tags/lazy-deletion/</link>
+    <pubDate>Sat, 02 Jul 2022 09:14:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/tags/lazy-deletion/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -17,14 +65,6 @@
     <pubDate>Fri, 01 Jul 2022 11:25:07 -0400</pubDate>
     <author>BYC</author>
     <guid>https://byc996.github.io/tags/medium/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Monotonic Stack</title>
-    <link>https://byc996.github.io/tags/monotonic-stack/</link>
-    <pubDate>Fri, 01 Jul 2022 11:25:07 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/tags/monotonic-stack/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,38 +81,6 @@
     <pubDate>Fri, 24 Jun 2022 13:30:27 -0400</pubDate>
     <author>BYC</author>
     <guid>https://byc996.github.io/tags/bfs/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>DP</title>
-    <link>https://byc996.github.io/tags/dp/</link>
-    <pubDate>Fri, 17 Jun 2022 12:30:24 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/tags/dp/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Hard</title>
-    <link>https://byc996.github.io/tags/hard/</link>
-    <pubDate>Fri, 17 Jun 2022 10:59:28 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/tags/hard/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>content</title>
-    <link>https://byc996.github.io/tags/content/</link>
-    <pubDate>Wed, 15 Jun 2022 17:57:47 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/tags/content/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Markdown</title>
-    <link>https://byc996.github.io/tags/markdown/</link>
-    <pubDate>Wed, 15 Jun 2022 17:57:47 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/tags/markdown/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

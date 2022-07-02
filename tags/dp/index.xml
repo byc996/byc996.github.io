@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>DP - Tag - Blog - Learning Notes</title>
+        <title>DP - Tag - BYC - Learning Notes</title>
         <link>https://byc996.github.io/tags/dp/</link>
-        <description>DP - Tag - Blog - Learning Notes</description>
+        <description>DP - Tag - BYC - Learning Notes</description>
         <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 17 Jun 2022 12:30:24 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/dp/" rel="self" type="application/rss+xml" /><item>
     <title>Lintcode1869 · Count Square Submatrices with All Ones</title>
     <link>https://byc996.github.io/posts/lintcode1869/</link>

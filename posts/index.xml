@@ -1,9 +1,37 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Blog - Learning Notes</title>
+        <title>All Posts - BYC - Learning Notes</title>
         <link>https://byc996.github.io/posts/</link>
-        <description>All Posts | Blog - Learning Notes</description>
-        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 01 Jul 2022 11:25:07 -0400</lastBuildDate><atom:link href="https://byc996.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>All Posts | BYC - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 02 Jul 2022 12:05:50 -0400</lastBuildDate><atom:link href="https://byc996.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Lintcode1507 · Shortest Subarray with Sum at Least K</title>
+    <link>https://byc996.github.io/posts/lintcode1507/</link>
+    <pubDate>Sat, 02 Jul 2022 12:05:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode1507/</guid>
+    <description><![CDATA[<p>Return the <strong>length</strong> of the shortest, non-empty, contiguous subarray of <code>A</code> with sum at least <code>K</code>.</p>
+<p>If there is no non-empty subarray with sum at least <code>K</code>, return <code>-1</code>.</p>
+<p><a href="https://www.lintcode.com/problem/1507/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1507/</a></p>]]></description>
+</item>
+<item>
+    <title>Lintcode122 · Largest Rectangle in Histogram</title>
+    <link>https://byc996.github.io/posts/lintcode122/</link>
+    <pubDate>Sat, 02 Jul 2022 11:02:19 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode122/</guid>
+    <description><![CDATA[<p>Given <code>n</code> non-negative integers representing the histogram&rsquo;s bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.</p>
+<p><a href="https://www.lintcode.com/problem/122/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/122/</a></p>]]></description>
+</item>
+<item>
+    <title>Lintcode362 · Sliding Window Maximum</title>
+    <link>https://byc996.github.io/posts/lintcode362/</link>
+    <pubDate>Sat, 02 Jul 2022 09:14:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode362/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/362/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/362/</a></p>
+<p>Given an array of n integer with duplicate number, and a moving window(size k), move the window at each iteration from the start of the array, find the maximum number inside the window at each moving.</p>]]></description>
+</item>
+<item>
     <title>Lintcode285 · Tall Building</title>
     <link>https://byc996.github.io/posts/lintcode285/</link>
     <pubDate>Fri, 01 Jul 2022 11:25:07 -0400</pubDate>
@@ -66,22 +94,6 @@ Xiao Q has walked from the first building to the last one. Xiao Q has never seen
     <author>BYC</author>
     <guid>https://byc996.github.io/posts/lintcode1702/</guid>
     <description><![CDATA[<p><a href="https://www.lintcode.com/problem/1702/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1702/</a></p>]]></description>
-</item>
-<item>
-    <title>Lintcode1827 · Number of Ways to Stay in the Same Place After Some Steps II</title>
-    <link>https://byc996.github.io/posts/lintcode1827/</link>
-    <pubDate>Thu, 16 Jun 2022 15:24:29 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/posts/lintcode1827/</guid>
-    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/1827/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/1827/</a></p>]]></description>
-</item>
-<item>
-    <title>Test</title>
-    <link>https://byc996.github.io/posts/test/</link>
-    <pubDate>Wed, 15 Jun 2022 17:57:47 -0400</pubDate>
-    <author>BYC</author>
-    <guid>https://byc996.github.io/posts/test/</guid>
-    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
 </item>
 </channel>
 </rss>

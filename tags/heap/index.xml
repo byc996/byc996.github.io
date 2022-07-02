@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Heap - Tag - BYC - Learning Notes</title>
+        <link>https://byc996.github.io/tags/heap/</link>
+        <description>Heap - Tag - BYC - Learning Notes</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 02 Jul 2022 09:14:50 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/heap/" rel="self" type="application/rss+xml" /><item>
+    <title>Lintcode362 · Sliding Window Maximum</title>
+    <link>https://byc996.github.io/posts/lintcode362/</link>
+    <pubDate>Sat, 02 Jul 2022 09:14:50 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/lintcode362/</guid>
+    <description><![CDATA[<p><a href="https://www.lintcode.com/problem/362/" target="_blank" rel="noopener noreffer">https://www.lintcode.com/problem/362/</a></p>
+<p>Given an array of n integer with duplicate number, and a moving window(size k), move the window at each iteration from the start of the array, find the maximum number inside the window at each moving.</p>]]></description>
+</item>
+</channel>
+</rss>

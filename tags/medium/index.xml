@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Medium - Tag - Blog - Learning Notes</title>
+        <title>Medium - Tag - BYC - Learning Notes</title>
         <link>https://byc996.github.io/tags/medium/</link>
-        <description>Medium - Tag - Blog - Learning Notes</description>
+        <description>Medium - Tag - BYC - Learning Notes</description>
         <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 01 Jul 2022 11:25:07 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/medium/" rel="self" type="application/rss+xml" /><item>
     <title>Lintcode285 · Tall Building</title>
     <link>https://byc996.github.io/posts/lintcode285/</link>
