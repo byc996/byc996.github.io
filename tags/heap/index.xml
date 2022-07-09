@@ -3,7 +3,16 @@
         <title>Heap - Tag - BYC - Learning Notes</title>
         <link>https://byc996.github.io/tags/heap/</link>
         <description>Heap - Tag - BYC - Learning Notes</description>
-        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 02 Jul 2022 09:14:50 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/heap/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 05 Jul 2022 14:11:33 -0400</lastBuildDate><atom:link href="https://byc996.github.io/tags/heap/" rel="self" type="application/rss+xml" /><item>
+    <title>Line Sweep Algorithm</title>
+    <link>https://byc996.github.io/posts/linesweep/</link>
+    <pubDate>Tue, 05 Jul 2022 14:11:33 -0400</pubDate>
+    <author>BYC</author>
+    <guid>https://byc996.github.io/posts/linesweep/</guid>
+    <description><![CDATA[<p>使用扫描线解决<strong>区间</strong>问题</p>
+<p><strong>扫描线算法</strong>：使用一根假想的线在坐标轴上水平或垂直移动像扫描一样经过数据并处理的算法</p>]]></description>
+</item>
+<item>
     <title>Lintcode362 · Sliding Window Maximum</title>
     <link>https://byc996.github.io/posts/lintcode362/</link>
     <pubDate>Sat, 02 Jul 2022 09:14:50 -0400</pubDate>
